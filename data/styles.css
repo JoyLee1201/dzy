@@ -51,6 +51,8 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 ._图片 {
 }
 .box_1 {
@@ -74,4 +76,15 @@
   color:#169BD5;
 }
 .box_2 {
+}
+.icon {
+}
+.shape {
+}
+.refs-webm-wechat {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.image {
 }
